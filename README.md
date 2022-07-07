@@ -1,2 +1,3 @@
 # Testing
-Testing out GitHub
+Testing out GitHub.
+This is my first commit.
